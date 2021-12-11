@@ -1,0 +1,26 @@
+body {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 2.5rem;
+  margin: 5rem;
+}
+
+#page {
+  margin: 3rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0rem;
+}
+
+.img {
+  margin: 3%;
+  padding: 0%;
+  flex-basis: 45%;
+}
+
+.plus {
+}
